@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @amandafeijoo
-- 👀 I’m interested in traveling and nature
-- 🌱 I’m currently learning Mater Degree in Web Developer
+- 🌱 I’m currently studying a  Master Degree in Web Developer in Universidad Europea, Madrid, Spain 
 - 📫 How to reach me my email is amanda_feijoo@hotmail.com
 
 <!---
