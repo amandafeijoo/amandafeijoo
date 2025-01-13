@@ -17,7 +17,7 @@ Visit my personal portfolio to see more about me and my work:
 - API design and integration with Django REST Framework.  
 
 📫 **How to Reach Me**  
-- Email: [amanda_feijoo@hotmail.com](mailto:amanda_feijoo@hotmail.com)  
+- Email: [amandaflores@webcode-art.com](mailto:amandaflores@webcode-art.com)  
 - LinkedIn: [linkedin.com/in/amanda-feijoo](https://linkedin.com/in/amanda-feijoo)  
 
 ⚡ **Tech Stack**  
