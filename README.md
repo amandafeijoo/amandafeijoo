@@ -1,30 +1,35 @@
-# 👋 Hi, I’m Amanda Feijoo!
+👋 Hi, I’m Amanda Feijóo
 
-🌟 **About Me**  
-I'm a passionate **Full-Stack Web Developer** currently completing my **Master's Degree in Web Development** at **Universidad Europea, Madrid, Spain**. I enjoy building intuitive, user-friendly applications and continuously learning new technologies.
+I'm a Full-Stack Web Developer who genuinely enjoys building things that are useful, beautiful, and easy to use. I work across the whole stack — from backend logic to frontend design — but I’m especially drawn to the visual side, where I can bring ideas to life through clean, responsive interfaces.
 
-🚀 **My Projects**  
-Explore some of my projects, showcasing my skills in full-stack development:
-- [DineBooker](#): A restaurant reservation platform built with React, Django, and PostgreSQL (Master's Thesis, graded 10/10).  
-- [FitLife Gym](#): A fitness management platform featuring booking and user engagement tools (Preliminary project, graded 8.6/10).  
+🌍 I’m originally from Honduras, spent 14 years in Barcelona, and now live in Trondheim, Norway. That mix of cultures has definitely shaped how I work, collaborate, and connect with people.
 
-💻 **Portfolio**  
-Visit my personal portfolio to see more about me and my work:  
-👉 [webcode-art.com](https://webcode-art.com)  
+🎓 I hold a Master’s Degree in Web Development and Applications from Universidad Europea de Madrid with an overall GPA of 9.04/10.
 
-🌱 **Currently Learning**  
-- Advanced React patterns and optimizations.  
-- API design and integration with Django REST Framework.  
+My thesis project, DineBooker (graded 10/10), is a restaurant booking platform built with React, Django, and PostgreSQL — you can check out the demo in my portfolio.
+I also developed FitLife Gym as a pre-thesis academic project (graded 8.6/10), focused on fitness class management and user engagement.
 
-📫 **How to Reach Me**  
+💼 I've also worked on real freelance projects, including:
+
+- Arrazola Psicología – a booking and payment system for a licensed therapist (React + Django + Stripe)
+- Webcode-Art – my personal portfolio and contact platform
+- Starting soon: a new freelance platform for nannies in Switzerland
+
+
+📱 I also build mobile apps using React Native, and test them with both Android Studio and the iOS Simulator.
+
+💻 Tech I’ve been using:
+
+Frontend: React, Angular, React Native, MUI, styled-components
+Backend: Django, Node.js, Python, PostgreSQL, MongoDB
+Tools & Platforms: Git, Docker, Stripe, Cloudinary, Railway, Render, Netlify, Google Cloud, Canva
+I care a lot about writing clean, maintainable code and creating user experiences that feel natural. I’m always curious, always learning — and always excited about the next thing to build.
+
+📬 Feel free to connect!
+
 - Email: [amandaflores@webcode-art.com](mailto:amandaflores@webcode-art.com)  
 - LinkedIn: [linkedin.com/in/amanda-feijoo](https://linkedin.com/in/amanda-feijoo)  
 
-⚡ **Tech Stack**  
-Here are some technologies I’ve been working with recently:
-- **Frontend:** React, MUI Material, styled-components.  
-- **Backend:** Django, Python, PostgreSQL.  
-- **Tools & Libraries:** Git, Chart.js, Leaflet, Canva, SweetAlert2.  
 
 📈 **GitHub Stats**  
 ![Amanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amandafeijoo&show_icons=true&theme=radical)
